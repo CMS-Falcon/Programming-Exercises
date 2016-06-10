@@ -1,3 +1,5 @@
+PROBLEM SOURCE: https://www.reddit.com/r/dailyprogrammer/comments/4m3ddb/20160601_challenge_269_intermediate_mirror/
+
 We are going to encrypt and decrypt with a mirror field.
 
 It works like this:
